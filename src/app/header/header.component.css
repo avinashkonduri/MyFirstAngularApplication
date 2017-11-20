@@ -1,0 +1,53 @@
+
+#header
+{
+	background-color: #66CCFF;
+	color:white;
+	text-align : center;
+	
+}
+
+
+#content
+{
+		padding:10px;
+	
+}
+#nav 
+{
+	width :180px;
+	float : left;
+}
+#nav .selected
+{
+	font-weight:bold;
+	color : red;
+	
+}
+#nav ul
+{
+	list-style-type: none;
+	padding:0;
+}
+
+#main
+{
+	width :600px;
+	float : right;
+	
+}
+#main1
+{
+	width :600px;
+	float : right;
+	
+}
+#footer
+{
+	clear:both;
+	padding:10px;
+	background-color: gray;
+	text-align : center;
+}
+
+
